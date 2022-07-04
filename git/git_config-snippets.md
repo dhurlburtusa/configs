@@ -1,6 +1,16 @@
 # git Config Snippets
 
 
+## Aliases
+
+```
+[alias]
+	cm = commit
+	co = checkout
+	st = status
+```
+
+
 ## User Information
 
 ```sh
